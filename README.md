@@ -1,9 +1,9 @@
-# Image_Captioning
+# Automatic Image Captioning
+
 Image Captioning project for "Computer Vision Expert" Udacity Nanodegree Program
 
-## Project Overview
-Image Captioning is the process of generating textual description of an image.
-In this project, I have implemented a Deep Learning Model inspired by *"Show and Tell: A Neural Image Caption Generator" - (Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan) *.
+## Overview
+Combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image. I have implemented a Deep Learning Model inspired by *"Show and Tell: A Neural Image Caption Generator" - (Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan) *.
 
 
 <p align="center">
