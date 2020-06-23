@@ -3,7 +3,7 @@
 Image Captioning project for "Computer Vision Expert" Udacity Nanodegree Program
 
 ## Overview
-Combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image. I have implemented a Deep Learning Model inspired by *"Show and Tell: A Neural Image Caption Generator" - (Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan) *.
+Combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image. Inspired by *"Show and Tell: A Neural Image Caption Generator" - [paper](https://arxiv.org/pdf/1411.4555.pdf)
 
 
 <p align="center">
